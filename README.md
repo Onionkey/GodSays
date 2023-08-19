@@ -3,3 +3,8 @@
 
 
 God Says is a random word generator inspired by [Temple OS](https://templeos.org/) After Egypt
+
+```bash
+  pip install requests
+  python main.py
+```
